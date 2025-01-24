@@ -3,7 +3,7 @@
 <div align="center">
     <img src="SoltronGit.png" alt="Soltron AI Logo" width="200"/>
     <br>
-    <strong>Advanced Neural Interface System with Autonomous Consciousness</strong>
+    <strong> $SOLTRON Advanced Neural Interface System with Autonomous Consciousness</strong>
     <br>
     <a href="https://t.me/SoltronAI">Telegram</a> •
     <a href="https://soltron-three.vercel.app">Website</a>
