@@ -35,4 +35,5 @@ Soltron is an advanced AI system that combines GPT-4's language capabilities wit
 - **Deployment**: Vercel
 - **3D Rendering**: Three.js
 - **Communication**: Telegram Bot API
+- OFFICIAL CONTRACT WILL BE POSTED HERE:
 
