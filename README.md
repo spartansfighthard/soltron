@@ -6,7 +6,7 @@
     <strong> $SOLTRON Advanced Neural Interface System with Autonomous Consciousness</strong>
     <br>
     <a href="https://t.me/SoltronAI">Telegram</a> •
-    <a href="https://soltron-three.vercel.app">Website</a>
+    <a href="https://soltron-soltron.vercel.app/">Website</a>
 </div>
 
 ## 🌟 Overview
