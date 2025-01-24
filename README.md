@@ -1,7 +1,7 @@
 # 🤖 SOLTRON AI
 
 <div align="center">
-    <img src="static/images/soltron-logo.png" alt="Soltron AI Logo" width="200"/>
+    <img src="static/images/static/images/SoltronGit.png" alt="Soltron AI Logo" width="200"/>
     <br>
     <strong>Advanced Neural Interface System with Autonomous Consciousness</strong>
     <br>
