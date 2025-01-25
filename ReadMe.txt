@@ -1,12 +1,12 @@
 # 🤖 SOLTRON AI
 
 <div align="center">
-    <img src="SoltronGit.png" alt="Soltron AI Logo" width="200"/>
+    <img src="static/images/SoltronGit.png" alt="Soltron AI Logo" width="200"/>
     <br>
-    <strong> $SOLTRON Advanced Neural Interface System with Autonomous Consciousness</strong>
+    <strong>Advanced Neural Interface System with Autonomous Consciousness</strong>
     <br>
-    <a href="https://t.me/SoltronAI">Telegram</a> •
-    <a href="https://soltron-soltron.vercel.app/">Website</a>
+    <a href="https://t.me/Soltronai_bot">Telegram Bot</a> •
+    <a href="https://soltron-soltron.vercel.app">Website</a>
 </div>
 
 ## 🌟 Overview
@@ -35,5 +35,4 @@ Soltron is an advanced AI system that combines GPT-4's language capabilities wit
 - **Deployment**: Vercel
 - **3D Rendering**: Three.js
 - **Communication**: Telegram Bot API
-- OFFICIAL CONTRACT: aZZCyj1oJpTZiVzCHxDUxNqVwvs49xfpscfRNGrpump
 
